@@ -39,6 +39,14 @@ https://frontend-api-femke.netlify.app/
 
 **OpenAPI docs screenshots:**
 ![images/readplayers.png](images/readplayers.png)
+![images/createplayer.png](images/createplayer.png)
+![images/readplayerid.png](images/readplayerid.png)
+![images/create post.png](images/create post.png)
+![images/delete player.png](images/delete player.png)
+![images/readpost.png](images/readpost.png)
+![images/readpostid.png](images/readpostid.png)
+![images/updatepost.png](images/updatepost.png)
+![images/deletepost.png](images/deletepost.png)
 
 
 
