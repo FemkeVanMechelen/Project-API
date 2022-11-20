@@ -9,7 +9,7 @@ Voor dit project heb ik het onderwerp 'Rode Duivels' gekozen. Men kan een speler
 
 **Beschrijving API:**
 
-Ik heb gebruik gemaakt van 2 posts (1 om spelers aan te maken en 1 om posts aan te maken over die spelers), ook heb ik 2 deletes aangemaakt( 1 om spelers te kunnen verwijderen en 1 om posts van die spelers te kunnen verwijderen)
+Ik heb gebruik gemaakt van 2 POSTS (1 om spelers aan te maken en 1 om posts aan te maken over die spelers), ook heb ik 2 DELETES aangemaakt( 1 om spelers te kunnen verwijderen en 1 om POSTS van die spelers te kunnen verwijderen), daarnaast heb ik 4 GETS (1 om alle spelers te lezen, 1 om spelers op ID te lezen, 1 om alle posts te lezen en 1 om posts van een id te lezen) en als laatste heb ik er ook nog een PUT aan toegevoegd. Deze kan posts op ID updaten.
 
 ![images/apiuitleg.png](images/apiuitleg.png)
 
@@ -33,6 +33,8 @@ https://frontend-api-femke.netlify.app/
 
 
 **Werking API door screenshots van Postman:**
+
+
 
 
 **OpenAPI docs screenshots:**
