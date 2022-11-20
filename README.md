@@ -13,6 +13,10 @@ Ik heb gebruik gemaakt van 2 posts (1 om spelers aan te maken en 1 om posts aan 
 **Beschrijving front-end:**
 Op mijn front-end heb ik 2 gets en 1 post gezet. Ik heb 1 GET om alle spelers op te vragen en 1 GET om alle posts van die spelers op te vragen. Ook heb ik op mijn front-end een post gezet om een speler van de Rode Duivels aan te maken.
 
+Foto:
+
+![images/frontend.png](images/frontend.png)
+
 
 **Link naar frond-end Github Repository:**
 
