@@ -35,6 +35,13 @@ https://frontend-api-femke.netlify.app/
 **Werking API door screenshots van Postman:**
 ![images/postmanreadplayers.png](images/postmanreadplayers.png)
 ![images/postmanpostplayer.png](images/postmanpostplayer.png)
+![images/postmanreadplayerid.png](images/postmanreadplayerid.png)
+![images/postmancreatepost.png](images/postmancreatepost.png)
+![images/postmandeleteplayer.png](images/postmandeleteplayer.png)
+![images/postmangedposts.png](images/postmangetposts.png)
+![images/postmangetpostid.png](images/postmangetpostid.png)
+![images/postmanputpost.png](images/postmanputpost.png)
+![images/postmandeletepost.png](images/postmandeletepost.png)
 
 
 **OpenAPI docs screenshots:**
