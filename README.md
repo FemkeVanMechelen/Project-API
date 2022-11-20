@@ -38,7 +38,7 @@ https://frontend-api-femke.netlify.app/
 
 
 **OpenAPI docs screenshots:**
-
+![images/readplayers.png](images/readplayers.png)
 
 
 
