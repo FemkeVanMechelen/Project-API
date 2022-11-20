@@ -36,7 +36,7 @@ https://frontend-api-femke.netlify.app/
 ![images/postmanreadplayers.png](images/postmanreadplayers.png)
 ![images/postmanpostplayer.png](images/postmanpostplayer.png)
 ![images/postmanreadplayerid.png](images/postmanreadplayerid.png)
-![images/postmancreatepost.png](images/postmancreatepost.png)
+![images/postcreatepost.png](images/postcreatepost.png)
 ![images/postmandeleteplayer.png](images/postmandeleteplayer.png)
 ![images/postmangedposts.png](images/postmangetposts.png)
 ![images/postmangetpostid.png](images/postmangetpostid.png)
