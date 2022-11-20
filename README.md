@@ -11,7 +11,7 @@ Voor dit project heb ik het onderwerp 'Rode Duivels' gekozen. Men kan een speler
 
 Ik heb gebruik gemaakt van 2 posts (1 om spelers aan te maken en 1 om posts aan te maken over die spelers), ook heb ik 2 deletes aangemaakt( 1 om spelers te kunnen verwijderen en 1 om posts van die spelers te kunnen verwijderen)
 
-
+![images/apiuitleg.png](images/apiuitleg.png)
 
 **Beschrijving front-end:**
 
